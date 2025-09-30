@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/status-conceptual-blue.svg)](https://github.com/CommentOut64/pitch-weaver)
 
-**PitchWeaver是一款旨在精确分析与可视化人声演唱音高曲线的开源Web应用，致力于为虚拟歌手调校者及声乐爱好者提供一个直观、精确的学习与参考平台。**
+**PitchWeaver是一款旨在精确分析与可视化人声演唱音高曲线的开源Web应用，致力于为虚拟歌手调校者及声乐爱好者提供一个直观、精确的音高线学习与参考平台。**
 
 ---
 
